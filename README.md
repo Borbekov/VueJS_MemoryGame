@@ -1,3 +1,6 @@
+# Memory Game
+
+``` bash
 # install dependencies
 npm install
 
@@ -7,6 +10,5 @@ npm run start
 # build for production with minification
 npm run dev
 
-
-
 # Borbekov Bekzhan
+```
